@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": "54400"
+    },
+    { "id": 2, "title": "Novel Bulan", "author": "Tere Liye", "price": "76000" },
+    {
+      "id": 3,
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "price": "175500"
+    },
+    {
+      "id": 4,
+      "title": "Segala Galanya Amyar",
+      "author": "Mark Manson",
+      "price": "111000"
+    },
+    {
+      "id": 5,
+      "title": "You Do You",
+      "author": "Fellexandro Ruby",
+      "price": "102400"
+    },
+    {
+      "id": 6,
+      "title": "Start with Why",
+      "author": "Simon Sinek",
+      "price": "80000"
+    }
+  ]
+  

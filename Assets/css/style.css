@@ -1,0 +1,408 @@
+.fixed-top {
+    position: absolute;
+}
+ 
+nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 70px;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar-brand {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 33px;
+    color: white;
+    margin-left: 107px;
+}
+
+
+.menu-left {
+    margin-left: -450px;
+}
+
+.menu-left ul li a {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+.menu-right {
+    margin-right: 100px;
+}
+
+.menu-right ul li a {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.game-title{
+    background: radial-gradient(189.96% 61.18% at 50% 38.82%, rgba(255, 181, 72, 0) 0%, 
+    rgba(52, 44, 29, 0.80319) 73.22%, #08090A 99.74%);
+    background-image: url(../img/main-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 150vh;
+}
+.game-title h1 {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 83px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    position: absolute;
+    height: 73.12px;
+    left: 9.22%;
+    right: 10.47%;
+    top: calc(50% - 73.12px/2 - 130.06px);
+    margin-top: 73.70px;
+}
+
+.game-title h3 {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 83px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #fff;
+    position: absolute;
+    height: 73.12px;
+    left: 9.22%;
+    right: 10.47%;
+    top: calc(50% - 73.12px/2 - 130.06px);
+    margin-top: 153.70px;
+}
+
+.game-title .btn {
+    width: 260px;
+    height: 60px;
+    border-radius: 4px;
+    font-weight: bold;
+    position: absolute;
+    left: 40.83%;
+    right: 41.09%;
+    top: 65.07%;
+    bottom: 38.68%;
+}
+
+.game-title .story ul li a {
+    position: absolute;
+    left: 45.66%;
+    right: 47.61%;
+    top: 140.03%;
+    bottom: 0;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.game-title .story ul li img {
+    padding-top: 10px;
+    position: absolute;
+    right: 50.61%
+
+}
+
+.Special {
+    background: radial-gradient(136.03% 54.57% at 50% 48.04%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0) 60.63%, #080A0B 99.74%);
+    background-image: url(../img/the-games-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 150vh;
+}
+
+.the-game {
+    padding-top: 20%;
+}
+
+.Special .the-game h3 {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+
+.Special .the-game h1 {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: 3px;
+    color: #FFFFFF;
+}
+
+
+.gallery {
+    width: 800px;
+    height: 800px;
+    padding-top: 3%;
+}
+
+.Features {
+    background: radial-gradient(136.03% 54.57% at 50% 48.04%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0) 60.63%, #080A0B 99.74%);
+    background-image: url(../img/features.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+}
+
+
+.features-title {
+    padding-top: 14rem;
+    margin-left: -600px;
+}
+
+
+.features-title h3 {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+
+.features-title h1 {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+}
+
+.timeline-desc h2 {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: left;
+    letter-spacing: 2px;
+    color: #FFB548;
+    padding-top: 2%;
+}
+
+.timeline-desc p {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+.features-progress {
+    margin-left:  -300px;
+}
+
+.timeline {
+    margin-top: 5%;
+}
+
+.timeline-dot {
+    padding-left: 10%;
+}
+
+
+.sysreq {
+    background: radial-gradient(33.26% 45% at 64.32% 47.1%, rgba(255, 255, 255, 0) 3.36%, rgba(0, 0, 0, 0) 19.22%, #080A0B 99.74%);
+    background-image: url(../img/requirements.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 150vh;
+}
+
+.judul  {
+    color:#FFFFFF;
+    padding-top: 20%;   
+}
+
+.req-table-title {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-top: 30%;
+}
+
+.req-info {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    color: #FFB548;
+}
+
+.req-content {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.top-scores {
+    background: radial-gradient(70.52% 37.27% at 24.21% 47.47%, rgba(35, 15, 15, 0) 0%, rgba(0, 0, 0, 0) 51.1%, #080A0B 99.74%);
+    background-image: url(../img/the-games-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 130vh;
+}
+
+.score-left-side {
+    color: white;
+    margin-top: 30%;
+}
+
+.twitcard {
+    margin-left:40%;
+    margin-top: 30%;
+}
+
+.card-name {
+    color: #FFB548;
+}
+
+.card-job {
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.card-text {
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.twitcard-1 {
+    margin-left:5%;
+    margin-top: 10%;
+}
+
+.twitcard-2 {
+    margin-left:20%;
+    margin-top: 10%;
+}
+
+.Newsletter {
+    background-image: url(../img/solid-black.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 130vh;
+
+}
+
+figure {
+    margin-top: 10%;
+}
+
+.footer-content-right {
+    margin-top: 10%;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+
+.footer-content-right p {
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+.footer {
+    background-image: url(../img/solid-black.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.nav-item {
+    color: white !important;
+}
+
+.footer-menu {
+    margin-right: 20%;
+}
+
+.footer-menu ul li a {
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+
+}
+
+.copyright{
+    display: flex;
+    padding-left: 10%;
+}
+
+.Policy {
+    padding-left: 35%;
+}
+
+.Policy a {
+    text-decoration: none;
+    color: white;
+}
+
+
